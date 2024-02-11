@@ -13,7 +13,7 @@
             "id": "cfed34df-a20b-4f3e-ad90-97f8b752951f",
             "name": "webCoRE Bundle",
             "namespace": "ady624",
-            "location": "https://github.com/csteele-PD/WebCoRE/raw/main/WebCoRE_Bundle.zip",
+            "location": "https://github.com/csteele-PD/WebCoRE/raw/main/WebCoRE_partialBundle.zip",
             "required": true,
             "oauth": true,
             "primary": true
